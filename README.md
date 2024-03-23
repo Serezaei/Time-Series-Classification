@@ -19,3 +19,5 @@ train_labels.csv - the class label for each sequence.
 sequence - the unique id for each sequence.
 
 state - the state associated to each sequence. This is the target which I predict.
+
+I used BiDirectional LSTM for this problem and I got 95% train accuracy and 85% tesst accuracy which is shows an accurate model.
